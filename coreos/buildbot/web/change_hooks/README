@@ -1,0 +1,3 @@
+This github web change hook is based on the one available in buildbot
+with modifications to accept changes on new branches that contain no new
+commits and git tags which are explicitly excluded by the original code.
