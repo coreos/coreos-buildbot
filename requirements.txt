@@ -1,4 +1,4 @@
 Twisted
 buildbot
-dateutil
 pyflakes
+python-dateutil
